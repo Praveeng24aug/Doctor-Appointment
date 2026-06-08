@@ -76,7 +76,7 @@ Doctor-Appointment/          ← React app (run from here with npm start)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ujjalzaman/Doctor-Appointment.git
+git clone https://github.com/Praveeng24aug/Doctor-Appointment.git
 cd Doctor-Appointment
 ```
 
@@ -110,7 +110,7 @@ Edit **`api/.env`** and set at least:
 | `DATABASE_URL` | Your Supabase PostgreSQL URI (from step 2). |
 | `PORT` | e.g. `5050` (default in many setups). |
 | `JWT_SCRET` / `JWT_EXPIRED_IN` | Strong secret and expiry (see `.env.example`). |
-| `BACKEND_LOCAL_URL` | Often `http://localhost:5050/api/v1/auth/` for local dev. |
+| `BACKEND_LOCAL_URL` | Often `http://localhost:3001/api/v1/auth/` for local dev. |
 | `BACKEND_LIVE_URL` | Your deployed API URL + `/api/v1/auth/` when you host the API. |
 | `EMAIL_PASS` | Gmail [App Password](https://support.google.com/accounts/answer/185833) (for emails). |
 | `GMAIL_APP_EMAIL` / `ADMIN_EMAIL` | Addresses used by the app for sending mail. |
@@ -178,17 +178,15 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## Video walkthrough
 
-Older setup steps are also shown in this video (database provider may differ; **this README uses Supabase**):
 
-[![YouTube](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube)](https://youtu.be/L6cgb7I-Ap4)
+
 
 ---
 
 ## Screenshots
 
-![DoctorOnCall overview](https://github.com/Ujjalzaman/Doctor-Appointment/assets/49386888/eeed56ce-3d9a-464d-91e5-588ea81ec5c0)
+![DoctorOnCall overview](https://github.com/Praveeng24aug/Doctor-Appointment/assets/49386888/eeed56ce-3d9a-464d-91e5-588ea81ec5c0)
 
 ---
 
@@ -203,10 +201,10 @@ Older setup steps are also shown in this video (database provider may differ; **
 
 ## Author & contact
 
-**Ujjal Zaman**
+**Praveen Gupta **
 
-- **Website / portfolio:** [ujjalzaman.com](https://ujjalzaman.com/)  
-- **Email:** [ujjalzaman@gmail.com](mailto:ujjalzaman@gmail.com)
+- **Website / portfolio:** [Praveeng24aug.com](https://Praveeng24aug.com/)  
+- **Email:** [pg7692732@gmail.com](mailto:pg7692732@gmail.com)
 
 Have a product idea, a similar project, or want to collaborate? Reach out via the website or email — I’m happy to hear from you.
 
