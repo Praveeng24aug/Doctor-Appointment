@@ -2,8 +2,8 @@
 
 **A full-stack web app where patients book visits, doctors manage schedules and prescriptions, and admins oversee the system — all in one place.**
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube)](https://youtu.be/L6cgb7I-Ap4)
-[![Live demo — Netlify](https://img.shields.io/badge/Live_demo-Netlify-00C7B7?logo=netlify)](https://dental-doctor-ujjal.netlify.app/)
+
+
 
 ---
 
